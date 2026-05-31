@@ -5,3 +5,6 @@
 [submodule "TSQCA"]
 	path = TSQCA
 	url = https://github.com/im-research-yt/tsqca
+[submodule "ThSQCA"]
+	path = ThSQCA
+	url = https://github.com/im-research-yt/thsqca
